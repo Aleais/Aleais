@@ -1,8 +1,13 @@
-Hi, I’m @Aleais.
-- 👀 I’m interested in learning new things. wht bout you?
-- 🌱 I’m currently learning python(primary), js, rust & c++.
-- 📫 You can contact me in Discord, ID: aleais#2532
-- ⚡ Fun fact: I love making friends!
+@Aleais here.
+Learning python, c/c++ and js.
+Have attempted making games with pygame in python, discord bots and etc.
+
+Socials;
+Instagram, ID- 
+Discord, ID- aleais#2532
+Twitter, ID- 
+
+- Fun fact: I'm better. 
 
 <!---
 Aleais/Aleais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
