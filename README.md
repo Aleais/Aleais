@@ -1,11 +1,11 @@
-@Aleais here.
+Aleais here.
 Learning python, c/c++ and js.
-Have attempted making games with pygame in python, discord bots and etc.
+Have attempted making games with pygame/python, discord bots and etc.
 
 Socials;
-Instagram, ID- 
-Discord, ID- aleais#2532
-Twitter, ID- 
+- Instagram, ID- 
+- Discord, ID- aleais#2532
+- Twitter, ID- 
 
 - Fun fact: I'm better. 
 
