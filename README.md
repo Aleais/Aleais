@@ -7,7 +7,7 @@ Socials;
 - Discord, ID- aleais#2532
 - Twitter, ID- 
 
-- Fun fact: I'm better. 
+Fun fact: I'm better. 
 
 <!---
 Aleais/Aleais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
