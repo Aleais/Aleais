@@ -1,6 +1,7 @@
-Aleais here.
-Learning python, c/c++ and js.
-Have attempted making games with pygame/python, discord bots and etc.
+learning python, c/c++, java and js (node.js or vanilla) /html/css.
+have made apps and games with pygame/python, discord bots and etc.
+
+currently learning networking and MySQL.
 
 Socials;
 - Instagram, ID- 
