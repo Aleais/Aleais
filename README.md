@@ -3,10 +3,8 @@ have made apps and games with pygame/python, discord bots and etc.
 
 currently learning networking and MySQL.
 
-Socials;
-- Instagram, ID- 
-- Discord, ID- aleais#2532
-- Twitter, ID- 
+SOCIALS;
+- Discord, aleais#2532
 
 <!---
 Aleais/Aleais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
